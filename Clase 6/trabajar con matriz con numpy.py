@@ -24,3 +24,10 @@ print(E)
 # transposici ́on
 F = A.T
 print(F)
+
+#multiplicar matriz
+T = F.dot(B)
+print(T)
+#[[ 67  72  77]
+# [ 92  99 106]
+# [117 126 135]]
